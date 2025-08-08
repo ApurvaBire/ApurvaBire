@@ -1,4 +1,4 @@
-##✨Welcome!
+# ***✨Welcome!***
 
 I’m Apurva, enthusiastic about learning and exploring the fields of Machine Learning, data analysis, and data visualization.
 
@@ -10,13 +10,9 @@ Currently, I am pursuing a Bachelor’s degree in Computer Science and Engineeri
 ## 🧑‍💻 About Me
 
 ⏺Engineering student in Computer Science and Engineering (Data Science)
-
 ⏺Skilled in analyzing data to find insights and support decision-making
-
 ⏺Learning machine learning techniques to build practical solutions
-
 ⏺Continuously expanding my knowledge of new tools and technologies
-
 ⏺Open to collaborating on exciting data projects and challenges
 
 ---
