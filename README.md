@@ -7,17 +7,21 @@ I thrive on working with complex datasets to uncover meaningful insights that dr
 Currently, I am pursuing a Bachelor’s degree in Computer Science and Engineering (Data Science), where I focus on honing my skills in machine learning, data analysis, and visualization.
 
 
-## 🧑‍💻 About Me
+## ***✨About Me***
 
 ⏺Engineering student in Computer Science and Engineering (Data Science)
+
 ⏺Skilled in analyzing data to find insights and support decision-making
+
 ⏺Learning machine learning techniques to build practical solutions
+
 ⏺Continuously expanding my knowledge of new tools and technologies
+
 ⏺Open to collaborating on exciting data projects and challenges
 
 ---
 
-## 🛠 Skills & Tools
+## ***✨Skills & Tools***
 
 💻 Programming Languages:
 Python | SQL
@@ -33,11 +37,11 @@ Data Cleaning · Model Building · Statistical Analysis
 
 ---
 
-## 📫 Let's Connect!
+## ***✨Let’s Connect!***
 
 I am open to collaborating on innovative data-driven projects, exchanging ideas, and connecting with professionals in analytics and machine learning.
 
-✨Feel free to reach out!
+***✨Feel free to reach out!***
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/apurvabire19)  
@@ -48,4 +52,4 @@ I am open to collaborating on innovative data-driven projects, exchanging ideas,
 
 ✨ Thanks for visiting my profile! Feel free to explore my repositories and projects.
 
-🚀 Let’s build something great together!
+🚀☺Let’s build something great together!
