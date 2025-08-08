@@ -1,37 +1,51 @@
 # 👋 Hello and Welcome!
 
-I'm **Apurva**, a passionate Data Analyst and aspiring Machine Learning enthusiast.  
-I love digging into data, uncovering patterns, and building models that help solve meaningful problems.  
-Currently pursuing my Bachelor's in Computer Science with a focus on Data Science, I enjoy working with real-world datasets to extract insights and build predictive models.
+I’m Apurva, enthusiastic about learning and exploring the fields of Machine Learning, data analysis, and data visualization.
+I thrive on working with complex datasets to uncover meaningful insights that drive informed decision-making and deliver practical solutions.
+Currently, I am pursuing a Bachelor’s degree in Computer Science and Engineering (Data Science), where I focus on honing my skills in machine learning, data analysis, and visualization.
 
----
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science undergraduate specializing in Data Science  
-- 🔍 Skilled in analyzing data to tell meaningful stories and support decision-making  
-- 🤖 Exploring machine learning techniques to create smart solutions  
-- 🌱 Continuously learning new tools and technologies in the analytics space  
-- 🤝 Open to collaborating on interesting data projects and challenges
+-🎓 Computer Science student specializing in Data Science
+-🔍 Skilled in analyzing data to find insights and support decisions
+-🤖 Learning machine learning techniques to build practical solutions
+-🌱 Always improving my knowledge of new tools and technologies
+-🤝 Open to collaborating on interesting data projects and challenges
+
 
 ---
 
 ## 🛠 Skills & Tools
 
-| Programming Languages | Data Visualization | Machine Learning | Databases | Tools & Platforms |
-|-----------------------|--------------------|------------------|-----------|------------------|
-| Python (Pandas, NumPy, Scikit-learn) | Power BI, Tableau, Matplotlib, Seaborn | Regression, Classification, Clustering | SQL, SQLite | Jupyter Notebook, Git, GitHub, Excel |
+💻 Programming Languages:
+Python | SQL
+Experienced in writing efficient code for data manipulation, querying, and automation.
+
+📊 Data Analysis & Visualization Tools:
+Excel | Tableau | Power BI | Matplotlib | Seaborn
+Skilled at transforming data into clear visual stories that support decision-making.
+
+🤖 Machine Learning & Data Analysis:
+Data Cleaning · Model Building · Statistical Analysis
+Capable of preparing data, building predictive models, and performing rigorous statistical evaluations.
+
+🌟 Soft Skills:
+Problem Solving | Adaptability | Teamwork | Project Management
+Effective collaborator with strong problem-solving skills and ability to adapt in dynamic environments.
 
 ---
 
 ## 📫 Let's Connect!
 
-I welcome opportunities to collaborate, discuss data-driven solutions, or network with professionals in analytics and machine learning.  
-Please feel free to reach out via LinkedIn or Email for any professional inquiries or project discussions.
+I am open to collaborating on innovative data-driven projects, exchanging ideas, and connecting with professionals in analytics and machine learning.
+Feel free to reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square)](mailto:your.email@example.com)
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/apurvabire19)  
+[![Email](https://img.shields.io/badge/Email-white?logo=gmail&style=flat-square&logoColor=black&color=white&labelColor=white)](mailto:bireapurva@gmail.com)
 
 ---
 
-*Thanks for visiting my profile! Feel free to explore my repositories and projects.*
+*Thanks for visiting my profile! 
+Feel free to explore my repositories and projects.*
