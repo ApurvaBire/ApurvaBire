@@ -13,9 +13,7 @@
 
 <hr style="border: 0.5px solid #ccc;">
 
-<div style="border:2px solid #FFB300; border-radius:8px; background:#FFF3E0; padding:6px 12px; display:inline-block; font-family:monospace; font-weight:600; color:#FF6F00;">
-`✨ Let's Connect!`
-</div>
+![✨ Let's Connect!](https://img.shields.io/badge/✨%20Let's%20Connect!-FF6F00?style=for-the-badge&labelColor=FFF3E0)
 
 `I'm passionate about using data to drive informed decision-making and deliver practical solutions.Always open to ideas, opportunities, and collaborations`  
 
