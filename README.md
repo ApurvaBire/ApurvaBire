@@ -17,8 +17,8 @@ I'm a <b>Computer Science and Engineering (Data Science)</b> student, enthusiast
 <span style="font-size: 1.05rem; font-weight: 600;">✨ Let's Connect!</span>  
 
 <p style="font-size: 0.98rem; color: #333;">
-`I'm passionate about using <b>data to drive informed decision-making`</b> `and deliver practical solutions.`  
-`Always open to <b>new ideas, opportunities, and collaborations`</b>.  
+I'm passionate about using <b>data to drive informed decision-making</b> and deliver practical solutions.
+Always open to <b>new ideas, opportunities, and collaborations</b>.  
 </p>
 
 <span style="font-size: 1rem; font-weight: 600; color: #FF6F00;">`🚀💌 Feel free to reach out!`</span>  
