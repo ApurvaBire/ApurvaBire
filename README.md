@@ -10,8 +10,6 @@
 
 `🟦I'm a Computer Science and Engineering (Data Science) student, enthusiastic about learning and exploring the fields of Machine Learning, Data Analysis, and Data Visualization.`
 
-<hr style="border: none; height: 2px; background-color: #FF6F00;">
-
 ![Let's Connect!](https://img.shields.io/badge/%20Let's%20Connect!-FFF3E0?style=for-the-badge&labelColor=FFB74D&color=FFE0B2)
 
 `🟦I'm passionate about using data to drive informed decision-making and deliver practical solutions.Always open to ideas, opportunities, and collaborations`  
