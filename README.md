@@ -5,8 +5,8 @@
 
 ![✨👋 Hi there! I'm Apurva](https://img.shields.io/badge/✨👋%20Hi%20there!%20I'm%20Apurva-ffffff?style=for-the-badge&labelColor=000000)
 
-<span style="font-size: 1.05rem; font-weight: 500;">◽️ <b>Data Science Enthusiast</b></span>  
-<span style="font-size: 1.05rem; font-weight: 500;">◽️ <b>Machine Learning & Data Analysis 🤖📶</b></span>  
+<span style="font-size: 1.05rem; font-weight: 500;">◽️ <b>`Data Science Enthusiast`</b></span>  
+<span style="font-size: 1.05rem; font-weight: 500;">◽️ <b>`Machine Learning & Data Analysis 🤖📶`</b></span>  
 
 <p style="font-size: 0.98rem; color: #333;">
 I'm a <b>Computer Science and Engineering (Data Science)</b> student, enthusiastic about learning and exploring the fields of <b>Machine Learning</b>, data analysis, and data visualization.
@@ -28,7 +28,7 @@ Always open to <b>new ideas, opportunities, and collaborations</b>.
 
 <hr style="border: 0.5px solid #ccc;">
 
-<span style="font-size: 1rem;">◽️ <b>Thanks for visiting my profile!</b></span>  
-<span style="font-size: 1rem;">◽️ <b>Feel free to explore my repositories ✨</b></span>  
+<span style="font-size: 1rem;">◽️ <b>`Thanks for visiting my profile!`</b></span>  
+<span style="font-size: 1rem;">◽️ <b>`Feel free to explore my repositories ✨`</b></span>  
 
 </div>
