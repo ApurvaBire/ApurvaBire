@@ -21,6 +21,6 @@ I'm passionate about using data to drive informed decision-making and deliver pr
 <hr style="border: 0.5px solid #ccc;">
 
 `Thanks for visiting my profile!`  
-`Feel free to explore my repositories and projects`
+`Feel free to explore my repositories✨`
 
 </div>
