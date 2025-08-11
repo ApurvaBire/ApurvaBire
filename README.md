@@ -24,7 +24,7 @@
 🔸 [![Email](https://img.shields.io/badge/Email-FF6F00?logo=gmail&style=flat-square&logoColor=white)](mailto:your.bireapurva@gmail.com)  
 🔹 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/apurvabire19)
 
-<span style="font-size: 1rem;">◽️ <b>`Thanks for visiting my profile!`</b></span>  
-<span style="font-size: 1rem;">◽️ <b>`Feel free to explore my repositories ✨`</b></span>  
+<span style="font-size: 1rem;">⏹<b>`Thanks for visiting my profile!`</b></span>  
+<span style="font-size: 1rem;">⏹<b>`Feel free to explore my repositories✨`</b></span>  
 
 </div>
