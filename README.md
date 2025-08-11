@@ -3,12 +3,10 @@
 <!-- Google Font -->
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 
-
 ![HI THERE! I'M APURVA](https://img.shields.io/badge/%20HI%20THERE!%20I'M%20APURVA-ffffff?style=for-the-badge&labelColor=FF8C42&color=FFD9B3)
 
 <span style="font-size: 1.05rem; font-weight: 500;">⏹<b>`Data Science Enthusiast`</b></span>  
 <span style="font-size: 1.05rem; font-weight: 500;">⏹<b>`Machine Learning & Data Analysis 🤖📶`</b></span>  
-
 
 `🟦I'm a Computer Science and Engineering (Data Science) student, enthusiastic about learning and exploring the fields of Machine Learning, Data Analysis, and Data Visualization.`
 
