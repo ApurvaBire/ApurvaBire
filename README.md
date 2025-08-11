@@ -10,7 +10,7 @@
 
 
 <div style="border: 2px solid #FF6F00; border-radius: 14px; padding: 16px 20px; background: linear-gradient(135deg, #FFF8E1, #FFE5B4); box-shadow: 0px 4px 12px rgba(0,0,0,0.12); font-size: 1rem; color: #333; line-height: 1.6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: justify;">
-  <span style="font-size: 1.05rem; font-weight: bold; color: #FF6F00;"> `About Me`</span><br>
+  <span style="font-size: 1.05rem; font-weight: bold; color: #FF6F00;"> `About Me` </span><br>
   I'm a <b>Computer Science and Engineering (Data Science)</b> student, enthusiastic about learning and exploring the fields of <b>Machine Learning</b>, <b>Data Analysis</b>, and <b>Data Visualization</b>.
 </div>
 <hr style="border: 0.5px solid #ccc;">
