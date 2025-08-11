@@ -1,9 +1,9 @@
 *✨👋Hi there! I'm Apurva*
+◽️Data Science Enthusiast
+◽️Machine Learning & Data Analysis🤖📶
 
--◽️Data Science Enthusiast
--◽️Machine Learning & Data Analysis
 
-I'm a Computer Science and Engineering (Data Science) student,enthusiastic about learning and exploring the fields of Machine Learning, data analysis, and data visualization.📶🤖
+I'm a Computer Science and Engineering (Data Science) student,enthusiastic about learning and exploring the fields of Machine Learning, data analysis, and data visualization.
 
 ---
 
