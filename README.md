@@ -8,10 +8,9 @@
 <span style="font-size: 1.05rem; font-weight: 500;">◽️ <b>`Data Science Enthusiast`</b></span>  
 <span style="font-size: 1.05rem; font-weight: 500;">◽️ <b>`Machine Learning & Data Analysis 🤖📶`</b></span>  
 
-<p style="font-size: 0.98rem; color: #333;">
-I'm a <b>Computer Science and Engineering (Data Science)</b> student, enthusiastic about learning and exploring the fields of <b>Machine Learning</b>, data analysis, and data visualization.
-</p>
-
+<div style="border: 2px solid #FF6F00; border-radius: 10px; padding: 12px 16px; background: #FFF8E1; box-shadow: 0px 2px 8px rgba(0,0,0,0.08); font-size: 0.98rem; color: #333; line-height: 1.5;">
+  I'm a <b>Computer Science and Engineering (Data Science)</b> student, enthusiastic about learning and exploring the fields of <b>Machine Learning</b>, data analysis, and data visualization.
+</div>
 <hr style="border: 0.5px solid #ccc;">
 
 <span style="font-size: 1.05rem; font-weight: 600;">✨ Let's Connect!</span>  
