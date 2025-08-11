@@ -18,7 +18,7 @@
 
 <hr style="border: 0.5px solid #ccc;">
 
-<span style="font-size: 1.05rem; font-weight: 600;">✨ Let's Connect!</span>  
+<span style="font-size: 1.05rem; font-weight: 600;">`✨ Let's Connect!`</span>  
 
 <p style="font-size: 0.98rem; color: #333;">
 I'm passionate about using <b>data to drive informed decision-making</b> and deliver practical solutions.
