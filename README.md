@@ -3,7 +3,8 @@
 <!-- Google Font -->
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 
-![✨👋 Hi there! I'm Apurva](https://img.shields.io/badge/✨👋%20Hi%20there!%20I'm%20Apurva-ffffff?style=for-the-badge&labelColor=000000&color=FF6F00)
+
+![✨👋 Hi there! I'm Apurva](https://img.shields.io/badge/✨👋%20Hi%20there!%20I'm%20Apurva-ffffff?style=for-the-badge&labelColor=E26A8D&color=FFD6E0)
 
 <span style="font-size: 1.05rem; font-weight: 500;">◽️ <b>`Data Science Enthusiast`</b></span>  
 <span style="font-size: 1.05rem; font-weight: 500;">◽️ <b>`Machine Learning & Data Analysis 🤖📶`</b></span>  
