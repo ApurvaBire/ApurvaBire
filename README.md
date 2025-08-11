@@ -3,7 +3,7 @@
 <!-- Google Font -->
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 
-![✨👋 Hi there! I'm Apurva](https://img.shields.io/badge/✨👋%20Hi%20there!%20I'm%20Apurva-ffffff?style=for-the-badge&labelColor=000000)
+![✨👋 Hi there! I'm Apurva](https://img.shields.io/badge/✨👋%20Hi%20there!%20I'm%20Apurva-ffffff?style=for-the-badge&labelColor=000000&color=FF6F00)
 
 <span style="font-size: 1.05rem; font-weight: 500;">◽️ <b>`Data Science Enthusiast`</b></span>  
 <span style="font-size: 1.05rem; font-weight: 500;">◽️ <b>`Machine Learning & Data Analysis 🤖📶`</b></span>  
@@ -22,8 +22,6 @@
 
 🔸 [![Email](https://img.shields.io/badge/Email-FF6F00?logo=gmail&style=flat-square&logoColor=white)](mailto:your.bireapurva@gmail.com)  
 🔹 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/apurvabire19)
-
-<hr style="border: 0.5px solid #ccc;">
 
 <span style="font-size: 1rem;">◽️ <b>`Thanks for visiting my profile!`</b></span>  
 <span style="font-size: 1rem;">◽️ <b>`Feel free to explore my repositories ✨`</b></span>  
