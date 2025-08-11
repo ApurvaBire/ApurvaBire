@@ -14,7 +14,7 @@
 
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #FFE0B2, #FFB74D); border-radius: 2px;">
 
-![✨ Let's Connect!](https://img.shields.io/badge/✨%20Let's%20Connect!-FFF3E0?style=for-the-badge&labelColor=FFB74D&color=FFE0B2)
+![Let's Connect!](https://img.shields.io/badge/%20Let's%20Connect!-FFF3E0?style=for-the-badge&labelColor=FFB74D&color=FFE0B2)
 
 `I'm passionate about using data to drive informed decision-making and deliver practical solutions.Always open to ideas, opportunities, and collaborations`  
 
