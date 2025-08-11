@@ -1,6 +1,6 @@
 <div style="border: 2px solid #FF6F00; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #FFF8E1, #FFE5B4);">
 
-![✨👋 Hi there! I'm Apurva](https://img.shields.io/badge/✨👋%20Hi%20there!%20I'm%20Apurva-ffffff?style=for-the-badge&labelColor=000000)a
+![✨👋 Hi there! I'm Apurva](https://img.shields.io/badge/✨👋%20Hi%20there!%20I'm%20Apurva-ffffff?style=for-the-badge&labelColor=000000)
 
 `◽️ Data Science Enthusiast`  
 `◽️ Machine Learning & Data Analysis 🤖📶`
