@@ -13,8 +13,9 @@
 
 <hr style="border: 0.5px solid #ccc;">
 
-<span style="font-size: 1.05rem; font-weight: 600;">`✨ Let's Connect!`</span>  
-
+<div style="border:2px solid #FFB300; border-radius:8px; background:#FFF3E0; padding:6px 12px; display:inline-block; font-family:monospace; font-weight:600; color:#FF6F00;">
+`✨ Let's Connect!`
+</div>
 
 `I'm passionate about using data to drive informed decision-making and deliver practical solutions.Always open to ideas, opportunities, and collaborations`  
 
