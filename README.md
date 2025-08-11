@@ -20,7 +20,7 @@ I'm passionate about using data to drive informed decision-making and deliver pr
 
 <hr style="border: 0.5px solid #ccc;">
 
-![Thanks for visiting my profile! 😊✨](https://img.shields.io/badge/Thanks%20for%20visiting%20my%20profile!%20😊✨-ffffff?style=for-the-badge&labelColor=000000)  
-`Feel free to explore my repositories and projects`
+![Thanks for visiting my profile!](https://img.shields.io/badge/Thanks%20for%20visiting%20my%20profile!%20-ffffff?style=for-the-badge&labelColor=000000)  
+![Feel free to explore my repositories and projects](https://img.shields.io/badge/Feel%20free%20to%20explore%20my%20repositories%20and%20projects-ffffff?style=for-the-badge&labelColor=000000)
 
 </div>
