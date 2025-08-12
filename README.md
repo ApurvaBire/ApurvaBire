@@ -12,8 +12,7 @@
 
 ![Let's Connect!](https://img.shields.io/badge/%20Let's%20Connect!-FFF3E0?style=for-the-badge&labelColor=FFB74D&color=FFE0B2)
 
-`🟦I'm passionate about using data to drive informed decision-making and deliver practical solutions.Always open to ideas, opportunities, and collaborations`  
-
+`🟦I'm passionate about using data to drive informed decision-making and deliver practical solutions. Always open to ideas, opportunities, and collaborations.`  
 
 <span style="font-size: 1rem; font-weight: 600; color: #FF6F00;">`🚀💌 Feel free to reach out!`</span>  
 
@@ -22,5 +21,17 @@
 
 <span style="font-size: 1rem;">⏹<b>`Thanks for visiting my profile!`</b></span>  
 <span style="font-size: 1rem;">⏹<b>`Feel free to explore my repositories`</b></span>  
+
+---
+
+<!-- Keyword Boxes -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-00BFAE?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dashboard%20Design-FF9800?style=for-the-badge&logo=google-analytics&logoColor=white" />
+</p>
 
 </div>
