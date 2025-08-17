@@ -12,7 +12,7 @@
 
 ![Let's Connect!](https://img.shields.io/badge/%20Let's%20Connect!-FFF3E0?style=for-the-badge&labelColor=FFB74D&color=FFE0B2)
 
-`🟦I'm passionate about using data to drive informed decision-making and deliver practical solutions. Always open to ideas, opportunities, and collaborations.`  
+`🟦Always open to ideas, opportunities, and collaborations.`  
 
 <span style="font-size: 1rem; font-weight: 600; color: #FF6F00;">`🚀💌 Feel free to reach out!`</span>  
 
