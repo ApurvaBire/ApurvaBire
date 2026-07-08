@@ -5,33 +5,24 @@
 
 ![HI THERE! I'M APURVA](https://img.shields.io/badge/%20HI%20THERE!%20I'M%20APURVA-ffffff?style=for-the-badge&labelColor=FF8C42&color=FFD9B3)
 
-<span style="font-size: 1.05rem; font-weight: 500;">⏹ <b>`Computer Science & Engineering (Data Science) Graduate`</b></span><br>
-<span style="font-size: 1.05rem; font-weight: 500;">⏹ <b>`Machine Learning & Data Analysis 🤖📊`</b></span>
+<span style="font-size: 1.05rem; font-weight: 500;">⏹<b>`Data Science Enthusiast`</b></span>  
+<span style="font-size: 1.05rem; font-weight: 500;">⏹<b>`Machine Learning & Data Analysis 🤖📶`</b></span>  
 
-<br>
-
-`🟦 I'm a Computer Science & Engineering (Data Science) graduate with a strong interest in Data Analytics, Machine Learning, and Data Visualization. I enjoy transforming raw data into meaningful insights through analytics, interactive dashboards, and predictive models.`
-
-<br><br>
+`🟦I'm a Computer Science and Engineering (Data Science) Graduate, enthusiastic about learning and exploring the fields of Machine Learning, Data Analysis, and Data Visualization.`
 
 ![Let's Connect!](https://img.shields.io/badge/%20Let's%20Connect!-FFF3E0?style=for-the-badge&labelColor=FFB74D&color=FFE0B2)
 
-`🟦 Always open to ideas, opportunities, and collaborations.`
+`🟦Always open to ideas, opportunities, and collaborations.`  
 
-<span style="font-size: 1rem; font-weight: 600; color: #FF6F00;"><br>`🚀💌 Feel free to reach out!`</span>
+<span style="font-size: 1rem; font-weight: 600; color: #FF6F00;">`🚀💌 Feel free to reach out!`</span>  
 
-<br><br>
-
-🔸 [![Email](https://img.shields.io/badge/Email-FF6F00?logo=gmail&style=flat-square&logoColor=white)](mailto:bireapurva@gmail.com)  
+🔸 [![Email](https://img.shields.io/badge/Email-FF6F00?logo=gmail&style=flat-square&logoColor=white)](mailto:your.bireapurva@gmail.com)  
 🔹 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/apurvabire19)
 
-<br><br>
-
-<span style="font-size: 1rem;">⏹ <b>`Thanks for visiting my profile!`</b></span><br>
-<span style="font-size: 1rem;">⏹ <b>`Feel free to explore my repositories.`</b></span>
+<span style="font-size: 1rem;">⏹<b>`Thanks for visiting my profile!`</b></span>  
+<span style="font-size: 1rem;">⏹<b>`Feel free to explore my repositories`</b></span>  
 
 ---
-
 <!-- Keyword Boxes -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
