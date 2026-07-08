@@ -1,36 +1,68 @@
-<div style="border: 2px solid #FF6F00; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #FFF8E1, #FFE5B4); font-family: 'Poppins', sans-serif; line-height: 1.6;">
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="26" alt="GitHub"/>
+      &nbsp;<b>GitHub</b>
+    </td>
+    <td align="right" width="50%">
+      <h1 style="margin:0;">APURVA BIRE</h1>
+    </td>
+  </tr>
+</table>
 
-<!-- Google Font -->
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6F00&height=3&section=header&width=100%25" width="100%"/>
 
-![HI THERE! I'M APURVA](https://img.shields.io/badge/%20HI%20THERE!%20I'M%20APURVA-ffffff?style=for-the-badge&labelColor=FF8C42&color=FFD9B3)
+<br/>
 
-<span style="font-size: 1.05rem; font-weight: 500;">⏹<b>`Data Science Enthusiast`</b></span>  
-<span style="font-size: 1.05rem; font-weight: 500;">⏹<b>`Machine Learning & Data Analysis 🤖📶`</b></span>  
+<div align="center">
 
-`🟦I'm a Computer Science and Engineering (Data Science) student, enthusiastic about learning and exploring the fields of Machine Learning, Data Analysis, and Data Visualization.`
+## 👋 Hi, I'm Apurva
 
-![Let's Connect!](https://img.shields.io/badge/%20Let's%20Connect!-FFF3E0?style=for-the-badge&labelColor=FFB74D&color=FFE0B2)
+**Computer Science & Engineering (Data Science) Graduate**
 
-`🟦Always open to ideas, opportunities, and collaborations.`  
+<br/>
 
-<span style="font-size: 1rem; font-weight: 600; color: #FF6F00;">`🚀💌 Feel free to reach out!`</span>  
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3500&pause=1200&color=FF6F00&center=true&vCenter=true&width=600&lines=Data+Analytics;Machine+Learning;Data+Visualization;Power+BI;Tableau;Python;SQL" alt="Typing SVG" />
 
-🔸 [![Email](https://img.shields.io/badge/Email-FF6F00?logo=gmail&style=flat-square&logoColor=white)](mailto:your.bireapurva@gmail.com)  
-🔹 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/apurvabire19)
+</div>
 
-<span style="font-size: 1rem;">⏹<b>`Thanks for visiting my profile!`</b></span>  
-<span style="font-size: 1rem;">⏹<b>`Feel free to explore my repositories`</b></span>  
+<br/>
 
----
-<!-- Keyword Boxes -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-00BFAE?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dashboard%20Design-FF9800?style=for-the-badge&logo=google-analytics&logoColor=white" />
+Hi, I'm Apurva! 👋
+
+Welcome to my GitHub, where I document projects and technical explorations in Data Analytics, Machine Learning, and Data Visualization.
+
+<br/>
+
+## Tech Stack
+
+**Programming**
+
+<p> <img src="https://img.shields.io/badge/Python-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/SQL-808080?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/> </p>
+
+**Analytics**
+
+<p> <img src="https://img.shields.io/badge/Excel-FF6F00?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/> <img src="https://img.shields.io/badge/Power%20BI-808080?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/> <img src="https://img.shields.io/badge/Tableau-FF6F00?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/> </p>
+
+**Libraries**
+
+<p> <img src="https://img.shields.io/badge/Pandas-808080?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-FF6F00?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Scikit--learn-808080?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/> <img src="https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/> </p>
+
+<br/>
+
+## Let's Connect
+
+<p>
+<a href="mailto:bireapurva@gmail.com"><img src="https://img.shields.io/badge/Email-FF6F00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/apurvabire19"><img src="https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6F00&height=3&section=header&width=100%25" width="100%"/>
+
+<div align="center">
+
+Thanks for visiting my profile.
 
 </div>
