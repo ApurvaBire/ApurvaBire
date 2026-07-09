@@ -9,6 +9,10 @@
 
 `I'm a Computer Science and Engineering (Data Science) Graduate, enthusiastic about learning and exploring the fields of Machine Learning, Data Analysis, and Data Visualization.`
 
+![Explore My Work](https://img.shields.io/badge/%20Explore%20My%20Work-FFF3E0?style=for-the-badge&labelColor=FFB74D&color=FFE0B2)
+
+`Explore my repositories to discover Python-based projects, data analytics solutions, interactive dashboards, and machine learning implementations.`
+
 ![Let's Connect!](https://img.shields.io/badge/%20Let's%20Connect!-FFF3E0?style=for-the-badge&labelColor=FFB74D&color=FFE0B2)
 
 `Always open to ideas, opportunities, and collaborations.`  
@@ -17,10 +21,6 @@
 
 🔸 [![Email](https://img.shields.io/badge/Email-FF6F00?logo=gmail&style=flat-square&logoColor=white)](mailto:bireapurva@gmail.com)  
 🔹 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/apurvabire19)
-
-![Explore My Work](https://img.shields.io/badge/%20Explore%20My%20Work-FFF3E0?style=for-the-badge&labelColor=FFB74D&color=FFE0B2)
-
-`Explore my repositories to discover Python-based projects, data analytics solutions, interactive dashboards, and machine learning implementations.`
 
 ---
 <p align="center">
