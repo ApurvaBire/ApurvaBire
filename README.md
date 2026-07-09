@@ -8,13 +8,13 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&pause=1200&color=FF6F00&vCenter=true&width=440&height=32&lines=Data+Science+Enthusiast;Machine+Learning+%26+Data+Analysis" alt="Typing SVG" />
 
 <table><tr><td style="border-left: 4px solid #FF6F00; padding: 4px 14px; background: #FFF3E0;">
-I'm a Computer Science and Engineering (Data Science) Graduate, enthusiastic about learning and exploring the fields of Machine Learning, Data Analysis, and Data Visualization.
+'I'm a Computer Science and Engineering (Data Science) Graduate, enthusiastic about learning and exploring the fields of Machine Learning, Data Analysis, and Data Visualization.'
 </td></tr></table>
 
 ![Let's Connect!](https://img.shields.io/badge/%20Let's%20Connect!-FFF3E0?style=for-the-badge&labelColor=FFB74D&color=FFE0B2)
 
 <table><tr><td style="border-left: 4px solid #FF6F00; padding: 4px 14px; background: #FFF3E0;">
-Always open to ideas, opportunities, and collaborations.
+'Always open to ideas, opportunities, and collaborations.'
 </td></tr></table>
 
 🔸 [![Email](https://img.shields.io/badge/Email-FF6F00?logo=gmail&style=flat-square&logoColor=white)](mailto:bireapurva@gmail.com)
