@@ -13,14 +13,14 @@
 ![Let's Connect!](https://img.shields.io/badge/%20Let's%20Connect!-FFF3E0?style=for-the-badge&labelColor=FFB74D&color=FFE0B2)
 
 `🔹Always open to ideas, opportunities, and collaborations.`  
+
 <span style="font-size: 1rem; font-weight: 600; color: #FF6F00;">`🚀💌 Feel free to reach out!`</span>  
 
 🔸 [![Email](https://img.shields.io/badge/Email-FF6F00?logo=gmail&style=flat-square&logoColor=white)](mailto:bireapurva@gmail.com)  
 🔹 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/apurvabire19)
 
 <span style="font-size: 1rem;">⏹<b>`Thanks for visiting my profile!`</b></span>  
-<span style="font-size: 1rem;">⏹<b>`Explore my repositories to discover Python-based projects, 
-data analytics solutions, interactive dashboards, and machine learning implementations.`</b></span>  
+<span style="font-size: 1rem;">⏹<b>`Explore my repositories to discover Python-based projects,data analytics solutions, interactive dashboards, and machine learning implementations.`</b></span>  
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1200&color=4FC3F7&vCenter=true&width=440&height=30&lines=Data+Analytics;Machine+Learning;Data+Visualization" alt="Typing SVG" /> 
 
