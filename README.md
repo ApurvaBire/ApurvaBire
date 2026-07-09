@@ -1,5 +1,3 @@
-<img src="banner.png" alt="Apurva Bire Banner" width="100%">
----
 <div style="border: 2px solid #FF6F00; border-radius: 12px; padding: 18px 22px; background: linear-gradient(135deg, #FFF8E1, #FFE5B4); font-family: 'Poppins', sans-serif; line-height: 1.5;">
 
 <!-- Google Font -->
