@@ -16,9 +16,12 @@
 🔸 [![Email](https://img.shields.io/badge/Email-FF6F00?logo=gmail&style=flat-square&logoColor=white)](mailto:bireapurva@gmail.com)  
 🔹 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/apurvabire19)
 
-<span style="font-size: 1rem;">⏹<b>`Explore my repositories to discover Python-based projects,data analytics solutions, interactive dashboards, and machine learning implementations.`</b></span>  
+<span style="font-size: 1rem;">⏹<b>`Explore my repositories featuring Python projects, data analytics solutions, interactive dashboards, and machine learning applications.`</b></span>  
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1200&color=4FC3F7&vCenter=true&width=440&height=30&lines=Data+Analytics;Machine+Learning;Data+Visualization" alt="Typing SVG" /> 
+
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1500&color=4FC3F7&vCenter=true&width=550&height=30&lines=Data+Analytics;Machine+Learning;Business+Intelligence;Python+Development;Power+BI+Dashboards;SQL+%26+Data+Modeling" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FFD180" width="100%"/>
 
 ---
 <!-- Keyword Boxes -->
