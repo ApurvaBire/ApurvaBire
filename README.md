@@ -1,34 +1,28 @@
-<p align="center">
-  <img src="banner.png" alt="Apurva Bire Banner" width="100%">
-</p>
+<img src="banner.png" alt="Apurva Bire Banner" width="100%">
 
-<div align="center">
-
-# Hi, I'm Apurva Bire 👋
+# Hi, I'm Apurva Bire
 
 ### Computer Science & Engineering (Data Science) Graduate
 
 Passionate about transforming data into actionable insights through analytics, visualization, and machine learning.
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=480&lines=Data+Analytics;Machine+Learning;Data+Visualization" alt="Typing SVG" />
+<table>
+<tr>
+<td align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Alice&size=24&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&height=60&lines=Data+Analytics;Machine+Learning;Data+Visualization" alt="Typing SVG" />
+</td>
+</tr>
+</table>
 
-</div>
+<hr>
 
-<br>
-
-<div align="center">
-
-## 📂 Explore My Work
+## Explore My Work
 
 Explore my repositories to discover Python-based projects, data analytics solutions, interactive dashboards, and machine learning implementations.
 
-</div>
+<hr>
 
-<br>
-
-<div align="center">
-
-## 🤝 Let's Connect
+## Let's Connect
 
 Open to professional collaborations, networking, and new opportunities.
 
@@ -42,26 +36,30 @@ Open to professional collaborations, networking, and new opportunities.
   <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=4FC3F7" alt="GitHub" />
 </a>
 
-</div>
+<hr>
 
-<br>
+## Tech Stack
 
-<div align="center">
-
-## 🛠️ Tech Stack
-
+<marquee behavior="scroll" direction="left" scrollamount="4">
 <img src="https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=4FC3F7" alt="Python" />
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=4FC3F7" alt="MySQL" />
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Excel-0A192F?style=for-the-badge&logo=microsoftexcel&logoColor=4FC3F7" alt="Excel" />
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Power_BI-0A192F?style=for-the-badge&logo=powerbi&logoColor=4FC3F7" alt="Power BI" />
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Tableau-0A192F?style=for-the-badge&logo=tableau&logoColor=4FC3F7" alt="Tableau" />
-<br><br>
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=4FC3F7" alt="Pandas" />
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=4FC3F7" alt="NumPy" />
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Matplotlib-0A192F?style=for-the-badge&logo=plotly&logoColor=4FC3F7" alt="Matplotlib" />
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Scikit_Learn-0A192F?style=for-the-badge&logo=scikitlearn&logoColor=4FC3F7" alt="Scikit-learn" />
-<br><br>
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-0A192F?style=for-the-badge&logo=jupyter&logoColor=4FC3F7" alt="Jupyter Notebook" />
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PyCharm-0A192F?style=for-the-badge&logo=pycharm&logoColor=4FC3F7" alt="PyCharm" />
-
-</div>
+</marquee>
