@@ -5,7 +5,8 @@
 
 ![HI THERE! I'M APURVA](https://img.shields.io/badge/%20HI%20THERE!%20I'M%20APURVA-ffffff?style=for-the-badge&labelColor=FF8C42&color=FFD9B3)
 
----
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 8px 0;">
+
 `🔹I'm a Computer Science and Engineering (Data Science) Graduate, enthusiastic about learning and exploring the fields of Machine Learning, Data Analysis, and Data Visualization.`
 
 ![Let's Connect!](https://img.shields.io/badge/%20Let's%20Connect!-FFF3E0?style=for-the-badge&labelColor=FFB74D&color=FFE0B2)
