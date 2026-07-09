@@ -8,12 +8,11 @@
 <span style="font-size: 1.05rem; font-weight: 500;">⏹<b>`Data Science Enthusiast`</b></span>  
 <span style="font-size: 1.05rem; font-weight: 500;">⏹<b>`Machine Learning & Data Analysis 🤖📶`</b></span>  
 
-`🟦I'm a Computer Science and Engineering (Data Science) Graduate, enthusiastic about learning and exploring the fields of Machine Learning, Data Analysis, and Data Visualization.`
+`🔹I'm a Computer Science and Engineering (Data Science) Graduate, enthusiastic about learning and exploring the fields of Machine Learning, Data Analysis, and Data Visualization.`
 
 ![Let's Connect!](https://img.shields.io/badge/%20Let's%20Connect!-FFF3E0?style=for-the-badge&labelColor=FFB74D&color=FFE0B2)
 
-`🟦Always open to ideas, opportunities, and collaborations.`  
-
+`🔹Always open to ideas, opportunities, and collaborations.`  
 <span style="font-size: 1rem; font-weight: 600; color: #FF6F00;">`🚀💌 Feel free to reach out!`</span>  
 
 🔸 [![Email](https://img.shields.io/badge/Email-FF6F00?logo=gmail&style=flat-square&logoColor=white)](mailto:bireapurva@gmail.com)  
@@ -21,6 +20,8 @@
 
 <span style="font-size: 1rem;">⏹<b>`Thanks for visiting my profile!`</b></span>  
 <span style="font-size: 1rem;">⏹<b>`Feel free to explore my repositories`</b></span>  
+
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1200&color=4FC3F7&vCenter=true&width=440&height=30&lines=Data+Analytics;Machine+Learning;Data+Visualization" alt="Typing SVG" /> 
 
 ---
 <!-- Keyword Boxes -->
