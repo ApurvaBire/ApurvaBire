@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Apurva Bire Banner" width="100%">
+---
 <div style="border: 2px solid #FF6F00; border-radius: 12px; padding: 18px 22px; background: linear-gradient(135deg, #FFF8E1, #FFE5B4); font-family: 'Poppins', sans-serif; line-height: 1.5;">
 
 <!-- Google Font -->
@@ -7,11 +9,11 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&pause=1200&color=FF6F00&vCenter=true&width=440&height=32&lines=Data+Science+Enthusiast;Machine+Learning+%26+Data+Analysis" alt="Typing SVG" />
 
-`🟦I'm a Computer Science and Engineering (Data Science) Graduate, enthusiastic about learning and exploring the fields of Machine Learning, Data Analysis, and Data Visualization.`
+`I'm a Computer Science and Engineering (Data Science) Graduate, enthusiastic about learning and exploring the fields of Machine Learning, Data Analysis, and Data Visualization.`
 
 ![Let's Connect!](https://img.shields.io/badge/%20Let's%20Connect!-FFF3E0?style=for-the-badge&labelColor=FFB74D&color=FFE0B2)
 
-`🟦Always open to ideas, opportunities, and collaborations.`
+`Always open to ideas, opportunities, and collaborations.`
 
 🔸 [![Email](https://img.shields.io/badge/Email-FF6F00?logo=gmail&style=flat-square&logoColor=white)](mailto:bireapurva@gmail.com)
 🔹 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/apurvabire19)
