@@ -23,10 +23,6 @@
 <span style="font-size: 1rem;">⏹<b>`Feel free to explore my repositories`</b></span>  
 
 ---
-
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1200&color=4FC3F7&vCenter=true&width=440&height=30&lines=Data+Analytics;Machine+Learning;Data+Visualization" alt="Typing SVG" />
-
----
 <!-- Keyword Boxes -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
