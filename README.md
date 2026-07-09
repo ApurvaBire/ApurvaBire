@@ -1,65 +1,36 @@
-<img src="banner.png" alt="Apurva Bire Banner" width="100%">
+<div style="border: 2px solid #FF6F00; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #FFF8E1, #FFE5B4); font-family: 'Poppins', sans-serif; line-height: 1.6;">
 
-# Hi, I'm Apurva Bire
+<!-- Google Font -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 
-### Computer Science & Engineering (Data Science) Graduate
+![HI THERE! I'M APURVA](https://img.shields.io/badge/%20HI%20THERE!%20I'M%20APURVA-ffffff?style=for-the-badge&labelColor=FF8C42&color=FFD9B3)
 
-Passionate about transforming data into actionable insights through analytics, visualization, and machine learning.
+<span style="font-size: 1.05rem; font-weight: 500;">⏹<b>`Data Science Enthusiast`</b></span>  
+<span style="font-size: 1.05rem; font-weight: 500;">⏹<b>`Machine Learning & Data Analysis 🤖📶`</b></span>  
 
-<table>
-<tr>
-<td align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Alice&size=24&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&height=60&lines=Data+Analytics;Machine+Learning;Data+Visualization" alt="Typing SVG" />
-</td>
-</tr>
-</table>
+`🟦I'm a Computer Science and Engineering (Data Science) Graduate, enthusiastic about learning and exploring the fields of Machine Learning, Data Analysis, and Data Visualization.`
 
-<hr>
+![Let's Connect!](https://img.shields.io/badge/%20Let's%20Connect!-FFF3E0?style=for-the-badge&labelColor=FFB74D&color=FFE0B2)
 
-## Explore My Work
+`🟦Always open to ideas, opportunities, and collaborations.`  
 
-Explore my repositories to discover Python-based projects, data analytics solutions, interactive dashboards, and machine learning implementations.
+<span style="font-size: 1rem; font-weight: 600; color: #FF6F00;">`🚀💌 Feel free to reach out!`</span>  
 
-<hr>
+🔸 [![Email](https://img.shields.io/badge/Email-FF6F00?logo=gmail&style=flat-square&logoColor=white)](mailto:bireapurva@gmail.com)  
+🔹 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/apurvabire19)
 
-## Let's Connect
+<span style="font-size: 1rem;">⏹<b>`Thanks for visiting my profile!`</b></span>  
+<span style="font-size: 1rem;">⏹<b>`Feel free to explore my repositories`</b></span>  
 
-Open to professional collaborations, networking, and new opportunities.
+---
+<!-- Keyword Boxes -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-00BFAE?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dashboard%20Design-FF9800?style=for-the-badge&logo=google-analytics&logoColor=white" />
+</p>
 
-<a href="mailto:bireapurva@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=4FC3F7" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/apurvabire19" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=4FC3F7" alt="LinkedIn" />
-</a>
-<a href="https://github.com/ApurvaBire" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=4FC3F7" alt="GitHub" />
-</a>
-
-<hr>
-
-## Tech Stack
-
-<marquee behavior="scroll" direction="left" scrollamount="4">
-<img src="https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=4FC3F7" alt="Python" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=4FC3F7" alt="MySQL" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Excel-0A192F?style=for-the-badge&logo=microsoftexcel&logoColor=4FC3F7" alt="Excel" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Power_BI-0A192F?style=for-the-badge&logo=powerbi&logoColor=4FC3F7" alt="Power BI" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Tableau-0A192F?style=for-the-badge&logo=tableau&logoColor=4FC3F7" alt="Tableau" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=4FC3F7" alt="Pandas" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=4FC3F7" alt="NumPy" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-0A192F?style=for-the-badge&logo=plotly&logoColor=4FC3F7" alt="Matplotlib" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Scikit_Learn-0A192F?style=for-the-badge&logo=scikitlearn&logoColor=4FC3F7" alt="Scikit-learn" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-0A192F?style=for-the-badge&logo=jupyter&logoColor=4FC3F7" alt="Jupyter Notebook" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PyCharm-0A192F?style=for-the-badge&logo=pycharm&logoColor=4FC3F7" alt="PyCharm" />
-</marquee>
+</div>
